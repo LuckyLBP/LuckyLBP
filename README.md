@@ -1,5 +1,5 @@
 # 👋 from Lucas!
-Im Lucas from Borås, Sweden. Currently working as a developer for Effektiv Media AB.
+Im Lucas from Borås, Sweden. Currently working as a developer for Effektiv Media Group AB.
 
 ## 🌟 About Me
 - 🔭 I’m currently working on **Signello** a custom CRM for Effektiv Media AB.
