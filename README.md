@@ -4,7 +4,7 @@ Im Lucas from Borås, Sweden. Currently working as a developer for Effektiv Medi
 ## 🌟 About Me
 - 🔭 I’m currently working on **Signello** a custom CRM for Effektiv Media AB.
 - 🌱 I’m trying to learn: **Swift**
-- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/l-pohl/))**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/l-pohl/)**
 
 ## 🚀 Some of My Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
